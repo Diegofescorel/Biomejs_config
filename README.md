@@ -1,6 +1,6 @@
 # Biomejs_config
 
-{
+`{
     "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
     "organizeImports": {
         "enabled": true
@@ -30,4 +30,4 @@
             "node_modules"
         ]
     }
-}
+}`
